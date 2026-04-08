@@ -1,4 +1,4 @@
-# Unravelling the cytoskeletal architecture of cancer cells: a novel computational approach to predict cell invasive potential - CODE
+# From pixels to patterns: a multidimensional framework to decode cytoskeletal organisation
 
 This code is divided in 7 chapters:
 
